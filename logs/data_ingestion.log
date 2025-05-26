@@ -1,0 +1,6 @@
+2025-05-24 16:54:07,571 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/GauriNaik826/Spam_detection_ML_Pipeline/refs/heads/main/spam.csv
+2025-05-24 16:54:07,575 - data_ingestion - DEBUG - Data preprocessing completed
+2025-05-24 16:54:07,594 - data_ingestion - DEBUG - Train and test data saved successfully at ./data/raw
+2025-05-24 17:10:26,550 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/GauriNaik826/Spam_detection_ML_Pipeline/refs/heads/main/spam.csv
+2025-05-24 17:10:26,554 - data_ingestion - DEBUG - Data preprocessing completed
+2025-05-24 17:10:26,572 - data_ingestion - DEBUG - Train and test data saved successfully at ./data/raw
